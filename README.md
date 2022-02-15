@@ -1,2 +1,2 @@
 # Application
-It's a project.
+用VS编译
